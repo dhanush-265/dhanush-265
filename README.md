@@ -1,41 +1,76 @@
 # Hi, I'm Dhanush 👋
 
-### Computer Science Student | Software Engineering | Artificial Intelligence
+### Computer Science Student | Aspiring Software Engineer
 
-I'm a Computer Science student interested in building reliable software systems and understanding how modern AI applications work.
+I'm a Computer Science student interested in software engineering, backend systems, artificial intelligence, and distributed systems.
 
-I believe engineering is more than writing code. It's about understanding problems, making thoughtful design decisions, testing assumptions, measuring results, and continuously improving systems.
+I enjoy understanding how software works beneath the surface — from designing system architectures and data models to building, testing, deploying, and improving applications.
 
-### Current Focus
+I believe engineering is more than writing code. It's about understanding problems, making thoughtful decisions, testing assumptions, measuring outcomes, and continuously improving systems.
 
-- Backend engineering and system design
+---
+
+## 🚀 Current Focus
+
+- Backend Engineering and System Design
 - Data Structures and Algorithms
 - Artificial Intelligence and Machine Learning
-- Large Language Models and Retrieval-Augmented Generation (RAG)
-- Database design, reliability, and production engineering
+- Distributed Systems and Cloud-Native Technologies
+- Building reliable, maintainable, and scalable applications
 
-### Technologies
+## 🛠️ Technologies & Tools
 
-**Languages:** Java, Python, JavaScript
+**Programming Languages**
+- Java, Python, JavaScript
 
-**Frontend:** React, HTML, CSS, Tailwind CSS
+**Frontend**
+- HTML, CSS, React, Tailwind CSS
 
-**Backend:** Node.js, Express.js, REST APIs
+**Backend**
+- Node.js, Express.js
 
-**Databases:** PostgreSQL, MongoDB, Redis
+**Databases**
+- PostgreSQL, MongoDB, Redis
 
-**Tools:** Git, GitHub, Postman
+**Tools & Technologies**
+- Git, GitHub, Postman, REST APIs, JWT
 
-### My Engineering Philosophy
+## 💻 Featured Projects
 
-Learn → Build → Test → Deploy → Measure → Document → Improve.
+### 1. Multitenant Hospital Management System
+A SaaS-oriented hospital management platform designed around shared database architecture and tenant-level data isolation.
 
-I use AI-assisted development as a tool to accelerate learning and implementation, while making sure I understand, verify, and test the code I build.
+**Focus:** Backend architecture, PostgreSQL, authentication, RBAC, database transactions, and API design.
 
-### What I'm Building
+### 2. Enterprise Knowledge Copilot
+An AI-powered enterprise knowledge assistant that enables employees to retrieve information and ask questions across organizational documents.
 
-I'm working towards a portfolio of meaningful engineering projects that demonstrate practical problem-solving, technical depth, and real-world engineering practices.
+**Focus:** Retrieval-Augmented Generation (RAG), hybrid retrieval, evidence verification, and LLM-based applications.
 
-### Connect
+## 🧠 Engineering Philosophy
 
-- GitHub: [@dhanush-265](https://github.com/dhanush-265)
+I believe in learning by building and understanding the engineering decisions behind every implementation.
+
+My approach:
+
+**Learn → Design → Build → Test → Deploy → Measure → Document → Improve**
+
+I use AI-assisted development as a tool to accelerate learning and implementation, while focusing on understanding, validating, and explaining the underlying code and engineering trade-offs.
+
+## 📚 Currently Learning
+
+- Advanced Data Structures and Algorithms
+- Java and Spring Boot
+- System Design and Distributed Systems
+- AI/ML and Retrieval-Augmented Generation
+- Cloud Infrastructure and DevOps
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/vallipolli-dhanush-309a462a9/)
+- Portfolio: Coming soon
+- Email: dhanushvv265@gmail.com
+
+---
+
+*Building knowledge, one system at a time.*
