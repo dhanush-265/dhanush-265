@@ -2,8 +2,8 @@
 
 ### Computer Science Student | 
 
-**I'm a Computer Science student interested in software engineering, backend systems, artificial intelligence, and distributed systems.
-**
+_I'm a Computer Science student interested in software engineering, backend systems, artificial intelligence, and distributed systems._
+
 I enjoy understanding how software works beneath the surface — from designing system architectures and data models to building, testing, deploying, and improving applications.
 
 I believe engineering is more than writing code. It's about understanding problems, making thoughtful decisions, testing assumptions, measuring outcomes, and continuously improving systems.
