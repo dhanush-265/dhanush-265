@@ -4,13 +4,13 @@
 
 _I'm a Computer Science student interested in software engineering, backend systems, artificial intelligence, and distributed systems._
 
-I enjoy understanding how software works beneath the surface — from designing system architectures and data models to building, testing, deploying, and improving applications.
+_I enjoy understanding how software works beneath the surface — from designing system architectures and data models to building, testing, deploying, and improving applications._
 
-I believe engineering is more than writing code. It's about understanding problems, making thoughtful decisions, testing assumptions, measuring outcomes, and continuously improving systems.
+_I believe engineering is more than writing code. It's about understanding problems, making thoughtful decisions, testing assumptions, measuring outcomes, and continuously improving systems._
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Backend Engineering and System Design
 - Data Structures and Algorithms
@@ -18,7 +18,7 @@ I believe engineering is more than writing code. It's about understanding proble
 - Distributed Systems and Cloud-Native Technologies
 - Building reliable, maintainable, and scalable applications
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 - Java, Python, JavaScript
@@ -41,7 +41,7 @@ I believe engineering is more than writing code. It's about understanding proble
 ### Tools & Concepts
 - Git, GitHub, Thunder Client, Vite, Axios, JWT, Docker Fundamentals, CI/CD Fundamentals
 
-## 💻 Featured Projects
+##  Featured Projects
 
 ### 1. Multitenant Hospital Management System
 A SaaS-oriented hospital management platform designed around shared database architecture and tenant-level data isolation.
@@ -63,7 +63,7 @@ My approach:
 
 I use AI-assisted development as a tool to accelerate learning and implementation, while focusing on understanding, validating, and explaining the underlying code and engineering trade-offs.
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Data Structures and Algorithms
 - Java and Spring Boot
