@@ -38,4 +38,4 @@ I'm working towards a portfolio of meaningful engineering projects that demonstr
 
 ### Connect
 
-- GitHub: [@dhanushv-265](https://github.com/dhanush-265)
+- GitHub: [@dhanush-265](https://github.com/dhanush-265)
