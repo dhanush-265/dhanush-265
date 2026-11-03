@@ -21,25 +21,25 @@ I believe engineering is more than writing code. It's about understanding proble
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-Java, Python, JavaScript
+- Java, Python, JavaScript
 
 ### Frontend Development
-HTML, CSS, React, Tailwind CSS
+- HTML, CSS, React, Tailwind CSS
 
 ### Backend Development
-Node.js, Express.js, REST APIs
+- Node.js, Express.js, REST APIs
 
 ### Databases
-PostgreSQL, MongoDB
+- PostgreSQL, MongoDB
 
 ### AI & Machine Learning
-AI/ML Fundamentals, LLMs, RAG, Embeddings, Vector Search
+- AI/ML Fundamentals, LLMs, RAG, Embeddings, Vector Search
 
 ### Computer Science Fundamentals
-Data Structures and Algorithms, OOP, DBMS, SQL, Operating Systems, Computer Networks
+- Data Structures and Algorithms, OOP, DBMS, SQL, Operating Systems, Computer Networks
 
 ### Tools & Concepts
-Git, GitHub, Thunder Client, Vite, Axios, JWT, Docker Fundamentals, CI/CD Fundamentals
+- Git, GitHub, Thunder Client, Vite, Axios, JWT, Docker Fundamentals, CI/CD Fundamentals
 
 ## 💻 Featured Projects
 
