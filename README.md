@@ -18,22 +18,28 @@ I believe engineering is more than writing code. It's about understanding proble
 - Distributed Systems and Cloud-Native Technologies
 - Building reliable, maintainable, and scalable applications
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
-**Programming Languages**
-- Java, Python, JavaScript
+### Programming Languages
+Java, Python, JavaScript
 
-**Frontend**
-- HTML, CSS, React, Tailwind CSS
+### Frontend Development
+HTML, CSS, React, Tailwind CSS
 
-**Backend**
-- Node.js, Express.js
+### Backend Development
+Node.js, Express.js, REST APIs
 
-**Databases**
-- PostgreSQL, MongoDB, Redis
+### Databases
+PostgreSQL, MongoDB
 
-**Tools & Technologies**
-- Git, GitHub, Postman, REST APIs, JWT
+### AI & Machine Learning
+AI/ML Fundamentals, LLMs, RAG, Embeddings, Vector Search
+
+### Computer Science Fundamentals
+Data Structures and Algorithms, OOP, DBMS, SQL, Operating Systems, Computer Networks
+
+### Tools & Concepts
+Git, GitHub, Thunder Client, Vite, Axios, JWT, Docker Fundamentals, CI/CD Fundamentals
 
 ## 💻 Featured Projects
 
