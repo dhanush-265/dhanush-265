@@ -1,6 +1,6 @@
 # Hi, I'm Dhanush 👋
-
-### Computer Science Student | 
+### Computer Science Student
+### My philosophy: You don't have to learn all technologies, you just have to build mindset that helps you understand different technologies in current AI driven world
 
 _I'm a Computer Science student interested in software engineering, backend systems, artificial intelligence, and distributed systems._
 
